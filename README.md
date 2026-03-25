@@ -1,16 +1,32 @@
-## Hi there 👋
+# Shaheer Sultan
 
-<!--
-**ShaheerSultan/ShaheerSultan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building clean and responsive web interfaces.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About
+Computer Science student with a strong interest in modern web development.  
+Currently working with React and improving real-world project experience.
+
+---
+
+### Skills
+HTML  
+CSS  
+JavaScript  
+React  
+Tailwind CSS  
+Bootstrap  
+Firebase  
+Supabase  
+
+
+### Learning
+Advanced React   
+Backend services (Firebase & Supabase)
+
+---
+
+### Contact
+Email: your-email@example.com  
+Portfolio: https://your-portfolio-link.com
