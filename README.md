@@ -24,9 +24,3 @@ Supabase
 ### Learning
 Advanced React   
 Backend services (Firebase & Supabase)
-
----
-
-### Contact
-Email: your-email@example.com  
-Portfolio: https://your-portfolio-link.com
